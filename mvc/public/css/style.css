@@ -1,0 +1,11 @@
+button:focus{
+	background-color: #0069D9;
+}
+
+span.copiar {
+    cursor: copy;
+}
+
+i.fa-check {
+    color: green;
+}
